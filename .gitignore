@@ -1,0 +1,50 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Auto-generated VS/JetBrains Rider files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.apk
+*.aab
+*.zip
+*.exe
+*.app
+*.msi
+
+# Crash and analytics
+CrashReports/
+sysinfo.txt
+
+# Addressable Asset cache
+*.bin
+*.json
+*.hash
+*.bundle
+*.bundle.manifest
+
+# Unity Collaborate
+.collabignore
